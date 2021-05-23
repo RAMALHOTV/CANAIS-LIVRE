@@ -85,1285 +85,336 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc0007
 
 
 
-#EXTINF:-1,GLOBO SP HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5309
-#EXTINF:-1,GLOBO SP SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5442
-#EXTINF:-1,GLOBO RJ FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5352
-#EXTINF:-1,GLOBO RJ HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5307
-#EXTINF:-1,GLOBO RJ SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5441
-#EXTINF:-1,GLOBO NORDESTE FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5440
-#EXTINF:-1,GLOBO NORDESTE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/30731
-#EXTINF:-1,GLOBO NORDESTE SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41304
-#EXTINF:-1,GLOBO NSC TV BLUMENAU FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68540
-#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68539
-#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68538
-#EXTINF:-1,GLOBO RPC CURITIBA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/49430
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/49429
-#EXTINF:-1,GLOBO RPC CURITIBA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5489
-#EXTINF:-1,GLOBO RPC MARINGA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41689
-#EXTINF:-1,GLOBO RPC MARINGA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/49428
-#EXTINF:-1,GLOBO RPC MARINGA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/49431
-#EXTINF:-1,GLOBO RPC PARANAVAI FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41687
-#EXTINF:-1,GLOBO RPC PARANAVAI HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/30730
-#EXTINF:-1,GLOBO RPC PARANAVAI SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68522
-#EXTINF:-1,GLOBO TRIBUNA SANTOS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68714
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/62003
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD 265*
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5513
-#EXTINF:-1,GLOBO TV ANHANGUERA GO FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70218
-#EXTINF:-1,GLOBO TV ANHANGUERA GO FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70216
-#EXTINF:-1,GLOBO TV ANHANGUERA GO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70217
-#EXTINF:-1,GLOBO TV ANHANGUERA GO HD²
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70219
-#EXTINF:-1,GLOBO TV ANHANGUERA GO SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70215
-#EXTINF:-1,GLOBO TV ANHANGUERA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/62002
-#EXTINF:-1,GLOBO TV BAHIA SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5515
-#EXTINF:-1,GLOBO TV RIO SUL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/43303
-#EXTINF:-1,GLOBO TV RIO SUL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41696
-#EXTINF:-1,GLOBO VITORIA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5304
-#EXTINF:-1,EPTV CAMPINAS FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68541
-#EXTINF:-1,EPTV CAMPINAS HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5354
-#EXTINF:-1,EPTV CAMPINAS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5423
-#EXTINF:-1,EPTV SAO CARLOS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5422
-#EXTINF:-1,GLOBO ACRE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70528
-#EXTINF:-1,GLOBO ACRE SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70527
-#EXTINF:-1,GLOBO BAHIA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68521
-#EXTINF:-1,GLOBO BAHIA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68520
-#EXTINF:-1,GLOBO BELEM FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70531
-#EXTINF:-1,GLOBO BELEM HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70530
-#EXTINF:-1,GLOBO BELEM SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70529
-#EXTINF:-1,GLOBO BRASILIA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/30621
-#EXTINF:-1,GLOBO BRASILIA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5437
-#EXTINF:-1,GLOBO BRASILIA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5353
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/69860
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/69859
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/69858
-#EXTINF:-1,GLOBO GAZETA ALAGOAS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/69517
-#EXTINF:-1,GLOBO MINAS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68543
-#EXTINF:-1,GLOBO MINAS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5339
-#EXTINF:-1,GLOBO MINAS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5438
-#EXTINF:-1,A&E FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5189
-#EXTINF:-1,A&E HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5040
-#EXTINF:-1,A&E SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5394
-#EXTINF:-1,AMC FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5190
-#EXTINF:-1,AMC HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5041
-#EXTINF:-1,AMC SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5395
-#EXTINF:-1,ANIMAL PLANET FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5191
-#EXTINF:-1,ANIMAL PLANET HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5042
-#EXTINF:-1,ANIMAL PLANET SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5396
-#EXTINF:-1,ARTE 1 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/38424
-#EXTINF:-1,ARTE 1 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17923
-#EXTINF:-1,ARTE 1 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17913
-#EXTINF:-1,AXN FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5192
-#EXTINF:-1,AXN HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5043
-#EXTINF:-1,AXN SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5397
-#EXTINF:-1,BABY TV  HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/38437
-#EXTINF:-1,BABY TV FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40009
-#EXTINF:-1,BABY TV SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17914
-#EXTINF:-1,BAND 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26504
-#EXTINF:-1,BAND CAMPINAS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68525
-#EXTINF:-1,BAND CAMPINAS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68524
-#EXTINF:-1,BAND CAMPINAS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68523
-#EXTINF:-1,BAND FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5289
-#EXTINF:-1,BAND FHD*
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68514
-#EXTINF:-1,BAND HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68519
-#EXTINF:-1,BAND HD*
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68513
-#EXTINF:-1,BAND NEWS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5193
-#EXTINF:-1,BAND NEWS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5160
-#EXTINF:-1,BAND NEWS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5401
-#EXTINF:-1,BAND SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/32955
-#EXTINF:-1,BAND SD*
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68509
-#EXTINF:-1,BAND SPORTS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5194
-#EXTINF:-1,BAND SPORTS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5044
-#EXTINF:-1,BAND SPORTS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5402
-#EXTINF:-1,BIS FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5195
-#EXTINF:-1,BIS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5045
-#EXTINF:-1,BIS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5403
-#EXTINF:-1,BOA VONTADE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/57363
-#EXTINF:-1,BOOMERANG FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5196
-#EXTINF:-1,BOOMERANG HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17924
-#EXTINF:-1,BOOMERANG SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5404
-#EXTINF:-1,Campeonato Carioca 1 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/38501
-#EXTINF:-1,Campeonato Carioca 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47813
-#EXTINF:-1,Campeonato Carioca 3 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47815
-#EXTINF:-1,Campeonato Carioca 4 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47817
-#EXTINF:-1,Campeonato Catarinense 1 HD₁ - 24H Ondemand
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47819
-#EXTINF:-1,Campeonato Sergipano 4 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47845
-#EXTINF:-1,CANAL BRASIL FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5197
-#EXTINF:-1,CANAL BRASIL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68534
-#EXTINF:-1,CANAL BRASIL SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5405
-#EXTINF:-1,CANAL DO BOI HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45307
-#EXTINF:-1,CANAL DO BOI SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5406
-#EXTINF:-1,CANAL DO BOI SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/32956
-#EXTINF:-1,CANAL RURAL
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/61857
-#EXTINF:-1,CANAL SONY FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5198
-#EXTINF:-1,CANAL SONY HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5046
-#EXTINF:-1,CANAL SONY SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5407
-#EXTINF:-1,CANCAO NOVA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45249
-#EXTINF:-1,CANÇÃO NOVA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5384
-#EXTINF:-1,CANÇÃO NOVA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5408
-#EXTINF:-1,CARTOON NETWORK FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5199
-#EXTINF:-1,CARTOON NETWORK HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5047
-#EXTINF:-1,CARTOON NETWORK SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5409
-#EXTINF:-1,CINE BRASIL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45327
-#EXTINF:-1,CINE SKY 01
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40936
-#EXTINF:-1,CINE SKY 02
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40937
-#EXTINF:-1,CINE SKY 03
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40938
-#EXTINF:-1,CINE SKY 04
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40939
-#EXTINF:-1,CINE SKY 05
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40940
-#EXTINF:-1,CINE SKY 06
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40941
-#EXTINF:-1,CINE SKY 07
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40942
-#EXTINF:-1,CINE SKY 08
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40943
-#EXTINF:-1,CINE SKY 09
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40944
-#EXTINF:-1,CINE SKY 10
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/40945
-#EXTINF:-1,CINEMAX FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5200
-#EXTINF:-1,CINEMAX HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5048
-#EXTINF:-1,CINEMAX SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5410
-#EXTINF:-1,CNN BRASIL FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5285
-#EXTINF:-1,CNN BRASIL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5158
-#EXTINF:-1,CNN BRASIL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5540
-#EXTINF:-1,COMBATE FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5201
-#EXTINF:-1,COMBATE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5049
-#EXTINF:-1,COMBATE SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5411
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5202
-#EXTINF:-1,COMEDY CENTRAL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5050
-#EXTINF:-1,COMEDY CENTRAL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5412
-#EXTINF:-1,CONMEBOL 1 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47849
-#EXTINF:-1,CONMEBOL 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47851
-#EXTINF:-1,CONMEBOL 3 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47853
-#EXTINF:-1,CONMEBOL 4 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47855
-#EXTINF:-1,Conmebol TV FHD (JOGO 2)
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/62113
-#EXTINF:-1,Copa do Nordeste 1 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47857
-#EXTINF:-1,Copa do Nordeste 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47859
-#EXTINF:-1,Copa do Nordeste 3 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47861
-#EXTINF:-1,Copa do Nordeste 4 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47863
-#EXTINF:-1,Copa do Nordeste 5 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47865
-#EXTINF:-1,COPA LIBERTADORES 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47869
-#EXTINF:-1,COPA LIBERTADORES 3 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47871
-#EXTINF:-1,COPA LIBERTADORES 4 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47873
-#EXTINF:-1,CULTURA
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5518
-#EXTINF:-1,CULTURA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45253
-#EXTINF:-1,CURTA!
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5413
-#EXTINF:-1,DAZN 1 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47875
-#EXTINF:-1,DAZN 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47877
-#EXTINF:-1,DAZN 3 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47879
-#EXTINF:-1,DAZN 4 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/47881
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26506
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5203
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5051
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5414
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5205
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5053
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5415
-#EXTINF:-1,DISCOVERY KIDS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5206
-#EXTINF:-1,DISCOVERY KIDS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5054
-#EXTINF:-1,DISCOVERY KIDS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5416
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5207
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5055
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17916
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5208
-#EXTINF:-1,DISCOVERY THEATER HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5056
-#EXTINF:-1,DISCOVERY THEATER SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/49098
-#EXTINF:-1,DISCOVERY TURBO FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5209
-#EXTINF:-1,DISCOVERY TURBO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5057
-#EXTINF:-1,DISCOVERY TURBO SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5417
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5210
-#EXTINF:-1,DISCOVERY WORLD HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5058
-#EXTINF:-1,DISCOVERY WORLD SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17917
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5211
-#EXTINF:-1,DISNEY CHANNEL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5059
-#EXTINF:-1,DISNEY CHANNEL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5418
-#EXTINF:-1,DISNEY JR FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5212
-#EXTINF:-1,DISNEY JR HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5060
-#EXTINF:-1,DISNEY JR HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45293
-#EXTINF:-1,DISNEY JR SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5419
-#EXTINF:-1,DISNEY XD HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5420
-#EXTINF:-1,E! FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5213
-#EXTINF:-1,E! HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45328
-#EXTINF:-1,E! SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5421
-#EXTINF:-1,ESPN 2 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5216
-#EXTINF:-1,ESPN 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5062
-#EXTINF:-1,ESPN 2 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5426
-#EXTINF:-1,ESPN BRASIL FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5217
-#EXTINF:-1,ESPN BRASIL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5063
-#EXTINF:-1,ESPN BRASIL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5427
-#EXTINF:-1,ESPN EXTRA FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5214
-#EXTINF:-1,ESPN EXTRA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5065
-#EXTINF:-1,ESPN FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5215
-#EXTINF:-1,ESPN HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5064
-#EXTINF:-1,ESPN SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5425
-#EXTINF:-1,FILM & ARTS
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5428
-#EXTINF:-1,FILM & ARTS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41425
-#EXTINF:-1,FISH TV FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5218
-#EXTINF:-1,FISH TV HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17925
-#EXTINF:-1,FISH TV SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5429
-#EXTINF:-1,FOOD NETWORK FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5219
-#EXTINF:-1,FOOD NETWORK HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5066
-#EXTINF:-1,FOOD NETWORK SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5430
-#EXTINF:-1,FOX 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26507
-#EXTINF:-1,FOX SPORTS 2 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26508
-#EXTINF:-1,FOX SPORTS 2 FHD  
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5224
-#EXTINF:-1,FOX SPORTS 2 HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5071
-#EXTINF:-1,FOX SPORTS 2 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68533
-#EXTINF:-1,FOX SPORTS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68535
-#EXTINF:-1,FOX SPORTS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5072
-#EXTINF:-1,FOX SPORTS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5433
-#EXTINF:-1,FUTURA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5435
-#EXTINF:-1,FX FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5225
-#EXTINF:-1,FX HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5073
-#EXTINF:-1,FX SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5436
-#EXTINF:-1,GAZETA 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26509
-#EXTINF:-1,GAZETA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41695
-#EXTINF:-1,GAZETA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41808
-#EXTINF:-1,GLOBOSAT FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5238
-#EXTINF:-1,GLOBOSAT HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5075
-#EXTINF:-1,GLOBOSAT SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5454
-#EXTINF:-1,GLOOB FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5227
-#EXTINF:-1,GLOOB HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5076
-#EXTINF:-1,GLOOB SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5443
-#EXTINF:-1,GNT FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5228
-#EXTINF:-1,GNT HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5077
-#EXTINF:-1,GNT SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5444
-#EXTINF:-1,HBO 2 FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17912
-#EXTINF:-1,HBO 2 FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5233
-#EXTINF:-1,HBO 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5078
-#EXTINF:-1,HBO 2 SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5449
-#EXTINF:-1,HBO 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26510
-#EXTINF:-1,HBO FAMILY FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5229
-#EXTINF:-1,HBO FAMILY HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5079
-#EXTINF:-1,HBO FAMILY SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5446
-#EXTINF:-1,HBO FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5230
-#EXTINF:-1,HBO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5080
-#EXTINF:-1,HBO MUNDI FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5239
-#EXTINF:-1,HBO MUNDI HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5087
-#EXTINF:-1,HBO PLUS SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5447
-#EXTINF:-1,HBO POP FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5241
-#EXTINF:-1,HBO POP HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5089
-#EXTINF:-1,HBO POP SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17920
-#EXTINF:-1,HBO POP SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5457
-#EXTINF:-1,HBO SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5445
-#EXTINF:-1,HBO SIGNATURE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5082
-#EXTINF:-1,HBO SIGNATURE HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45334
-#EXTINF:-1,HBO SIGNATURE SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5448
-#EXTINF:-1,HBO XTREME 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26511
-#EXTINF:-1,HBO XTREME FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5240
-#EXTINF:-1,HBO XTREME HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5088
-#EXTINF:-1,HBO XTREME SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5456
-#EXTINF:-1,HGTV FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5204
-#EXTINF:-1,HGTV HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5052
-#EXTINF:-1,HGTV SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17921
-#EXTINF:-1,HISTORY 2 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5235
-#EXTINF:-1,HISTORY 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5083
-#EXTINF:-1,HISTORY 2 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5450
-#EXTINF:-1,HISTORY FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5234
-#EXTINF:-1,HISTORY HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5084
-#EXTINF:-1,HISTORY SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5534
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5236
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5085
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5451
-#EXTINF:-1,LIFETIME FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5237
-#EXTINF:-1,LIFETIME HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5086
-#EXTINF:-1,LIFETIME SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5453
-#EXTINF:-1,LIKEE FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41325
-#EXTINF:-1,LIKEE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41326
-#EXTINF:-1,MEGAPIX 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26512
-#EXTINF:-1,MEGAPIX FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5242
-#EXTINF:-1,MEGAPIX HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5090
-#EXTINF:-1,MEGAPIX SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5458
-#EXTINF:-1,MTV FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5243
-#EXTINF:-1,MTV HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5091
-#EXTINF:-1,MTV SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5459
-#EXTINF:-1,MULTISHOW 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26513
-#EXTINF:-1,MULTISHOW FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5244
-#EXTINF:-1,MULTISHOW HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5092
-#EXTINF:-1,MULTISHOW SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5460
-#EXTINF:-1,MUSIC BOX BRAZIL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5462
-#EXTINF:-1,MUSIC BOX BRAZIL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5461
-#EXTINF:-1,MUSIC BOX BRAZIL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45325
-#EXTINF:-1,NAT GEO 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26514
-#EXTINF:-1,NATGEO KIDS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5247
-#EXTINF:-1,NATGEO KIDS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5094
-#EXTINF:-1,NATGEO KIDS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5463
-#EXTINF:-1,NATGEO WILD FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5246
-#EXTINF:-1,NATGEO WILD HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5095
-#EXTINF:-1,NATGEO WILD SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5464
-#EXTINF:-1,NICK JR FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5249
-#EXTINF:-1,NICK JR HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5097
-#EXTINF:-1,NICK JR HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45295
-#EXTINF:-1,NICK JR SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5466
-#EXTINF:-1,NICKELODEON FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5248
-#EXTINF:-1,NICKELODEON HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5096
-#EXTINF:-1,NICKELODEON SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5467
-#EXTINF:-1,NOVO TEMPO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45255
-#EXTINF:-1,NOVO TEMPO SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5536
-#EXTINF:-1,NSC TV FLORIANOPOLIS FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68536
-#EXTINF:-1,NSC TV FLORIANOPOLIS HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5348
-#EXTINF:-1,OFF FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5250
-#EXTINF:-1,OFF HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5098
-#EXTINF:-1,OFF SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5468
-#EXTINF:-1,PARAMOUNT FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5251
-#EXTINF:-1,PARAMOUNT HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5099
-#EXTINF:-1,PARAMOUNT SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5469
-#EXTINF:-1,PLAY KIDS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5543
-#EXTINF:-1,POWER COUPLE BRASIL  H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68515
-#EXTINF:-1,POWER COUPLE BRASIL FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68516
-#EXTINF:-1,POWER COUPLE BRASIL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/66919
-#EXTINF:-1,POWER COUPLE BRASIL HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/64827
-#EXTINF:-1,POWER COUPLE BRASIL HD h264
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68517
-#EXTINF:-1,POWER COUPLE BRASIL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68518
-#EXTINF:-1,PREMIERE 2 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5253
-#EXTINF:-1,PREMIERE 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5100
-#EXTINF:-1,PREMIERE 2 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5473
-#EXTINF:-1,PREMIERE 3
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/56159
-#EXTINF:-1,PREMIERE 3 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5254
-#EXTINF:-1,PREMIERE 3 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5101
-#EXTINF:-1,PREMIERE 3 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5474
-#EXTINF:-1,PREMIERE 4 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5255
-#EXTINF:-1,PREMIERE 4 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5102
-#EXTINF:-1,PREMIERE 4 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5475
-#EXTINF:-1,PREMIERE 5 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5256
-#EXTINF:-1,PREMIERE 5 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45345
-#EXTINF:-1,PREMIERE 5 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5476
-#EXTINF:-1,PREMIERE 6 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5257
-#EXTINF:-1,PREMIERE 6 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5104
-#EXTINF:-1,PREMIERE 6 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5477
-#EXTINF:-1,PREMIERE 7 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5258
-#EXTINF:-1,PREMIERE 7 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5105
-#EXTINF:-1,PREMIERE 7 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5478
-#EXTINF:-1,PREMIERE CLUBES FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5252
-#EXTINF:-1,PREMIERE CLUBES HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5106
-#EXTINF:-1,PREMIERE CLUBES SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5481
-#EXTINF:-1,RBS TV PORTO ALEGRE FHD  
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68537
-#EXTINF:-1,RBS TV PORTO ALEGRE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5310
-#EXTINF:-1,RBS TV PORTO ALEGRE SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5483
-#EXTINF:-1,RECORD 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26515
-#EXTINF:-1,RECORD BAHIA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/41279
-#EXTINF:-1,RECORD BRASILIA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5311
-#EXTINF:-1,RECORD GO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68716
-#EXTINF:-1,RECORD MINAS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68542
-#EXTINF:-1,RECORD MINAS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5179
-#EXTINF:-1,RECORD MINAS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5319
-#EXTINF:-1,RECORD NEWS ES  FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5161
-#EXTINF:-1,RECORD NEWS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5484
-#EXTINF:-1,RECORD NEWS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17922
-#EXTINF:-1,RECORD RJ HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5320
-#EXTINF:-1,RECORD RJ HD*
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/35165
-#EXTINF:-1,RECORD RS
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68510
-#EXTINF:-1,RECORD RS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68511
-#EXTINF:-1,RECORD SP FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/57255
-#EXTINF:-1,RECORD SP HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5316
-#EXTINF:-1,RECORD SP SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68715
-#EXTINF:-1,RECORD TV ITAPOAN HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/48200
-#EXTINF:-1,REDE BRASIL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45237
-#EXTINF:-1,REDE TV! FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5260
-#EXTINF:-1,REDE TV! HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5108
-#EXTINF:-1,REDE TV! SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5487
-#EXTINF:-1,REDE VIDA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45250
-#EXTINF:-1,REDE VIDA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5488
-#EXTINF:-1,SBT 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26516
-#EXTINF:-1,SBT ES FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/50181
-#EXTINF:-1,SBT FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68532
-#EXTINF:-1,SBT HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68531
-#EXTINF:-1,SBT PARANA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68527
-#EXTINF:-1,SBT PARANA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68526
-#EXTINF:-1,SBT PARANA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5343
-#EXTINF:-1,SBT RJ FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68529
-#EXTINF:-1,SBT RJ HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5364
-#EXTINF:-1,SBT RJ SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68528
-#EXTINF:-1,SBT SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/68530
-#EXTINF:-1,SMITHSONIAN HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5162
-#EXTINF:-1,SPACE 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26517
-#EXTINF:-1,SPACE FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5261
-#EXTINF:-1,SPACE HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5109
-#EXTINF:-1,SPACE SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/49321
-#EXTINF:-1,SPORTV 2 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5262
-#EXTINF:-1,SPORTV 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5110
-#EXTINF:-1,SPORTV 2 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5495
-#EXTINF:-1,SPORTV 3 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5263
-#EXTINF:-1,SPORTV 3 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5111
-#EXTINF:-1,SPORTV 3 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5496
-#EXTINF:-1,SPORTV FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/29359
-#EXTINF:-1,SPORTV HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5112
-#EXTINF:-1,SPORTV SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5494
-#EXTINF:-1,STAR CHANNEL FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5220
-#EXTINF:-1,STAR CHANNEL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5067
-#EXTINF:-1,STAR CHANNEL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5817
-#EXTINF:-1,STAR HITS 2 FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17919
-#EXTINF:-1,STAR HITS 2 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5222
-#EXTINF:-1,STAR HITS 2 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5070
-#EXTINF:-1,STAR HITS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17918
-#EXTINF:-1,STAR HITS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5221
-#EXTINF:-1,STAR HITS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5069
-#EXTINF:-1,STAR LIFE FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/17911
-#EXTINF:-1,STAR LIFE HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5068
-#EXTINF:-1,STAR LIFE SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5432
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5265
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5113
-#EXTINF:-1,STUDIO UNIVERSAL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5497
-#EXTINF:-1,SYFY FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5266
-#EXTINF:-1,SYFY HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5114
-#EXTINF:-1,SYFY SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5498
-#EXTINF:-1,TBS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5267
-#EXTINF:-1,TBS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5115
-#EXTINF:-1,TBS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5499
-#EXTINF:-1,TCM HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/6110
-#EXTINF:-1,TCM SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5500
-#EXTINF:-1,TELECINE ACTION FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5268
-#EXTINF:-1,TELECINE ACTION HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5116
-#EXTINF:-1,TELECINE ACTION SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5501
-#EXTINF:-1,TELECINE CULT FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5269
-#EXTINF:-1,TELECINE CULT HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5117
-#EXTINF:-1,TELECINE CULT SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5502
-#EXTINF:-1,TELECINE FUN FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5270
-#EXTINF:-1,TELECINE FUN HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5118
-#EXTINF:-1,TELECINE FUN SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5503
-#EXTINF:-1,TELECINE PIPOCA 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26518
-#EXTINF:-1,TELECINE PIPOCA FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5271
-#EXTINF:-1,TELECINE PIPOCA HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5119
-#EXTINF:-1,TELECINE PIPOCA SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5504
-#EXTINF:-1,TELECINE PREMIUM 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26519
-#EXTINF:-1,TELECINE PREMIUM FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5272
-#EXTINF:-1,TELECINE PREMIUM HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5120
-#EXTINF:-1,TELECINE PREMIUM SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5505
-#EXTINF:-1,TELECINE TOUCH FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5273
-#EXTINF:-1,TELECINE TOUCH HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5121
-#EXTINF:-1,TELECINE TOUCH SD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5506
-#EXTINF:-1,TLC FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5274
-#EXTINF:-1,TLC HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5122
-#EXTINF:-1,TLC SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5508
-#EXTINF:-1,TNT 4K
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/26520
-#EXTINF:-1,TNT FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5275
-#EXTINF:-1,TNT HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5123
-#EXTINF:-1,TNT SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5509
-#EXTINF:-1,TNT SERIES FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5276
-#EXTINF:-1,TNT SERIES HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5124
-#EXTINF:-1,TNT SERIES SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5510
-#EXTINF:-1,TNT Sports 01 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/48007
-#EXTINF:-1,TNT Sports 03 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/48011
-#EXTINF:-1,TNT Sports 04 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/48013
-#EXTINF:-1,TNT Sports 05 HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/48015
-#EXTINF:-1,TOONCAST HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5511
-#EXTINF:-1,TRUTV HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/35753
-#EXTINF:-1,TV APARECIDA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5514
-#EXTINF:-1,TV APARECIDA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45248
-#EXTINF:-1,TV APARECIDA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/57362
-#EXTINF:-1,TV BRASIL FHD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/18062
-#EXTINF:-1,TV BRASIL HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45236
-#EXTINF:-1,TV CAMARA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45233
-#EXTINF:-1,TV DIARIO HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5165
-#EXTINF:-1,TV ESCOLA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45238
-#EXTINF:-1,TV EVANGELIZAR HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45320
-#EXTINF:-1,TV GUARAPARI FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/61423
-#EXTINF:-1,TV JUSTICA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45235
-#EXTINF:-1,TV LIBERAL BELEM SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5520
-#EXTINF:-1,TV PAI ETERNO SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45951
-#EXTINF:-1,TV RA TIM BUM HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5127
-#EXTINF:-1,TV RA TIM BUM SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5521
-#EXTINF:-1,TV SENADO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45234
-#EXTINF:-1,TV SERGIPE HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5308
-#EXTINF:-1,TV SIM 2 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/61459
-#EXTINF:-1,TV SIM 3 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/61460
-#EXTINF:-1,TV TEM BAURU SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5523
-#EXTINF:-1,TV TEM SOROCABA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5525
-#EXTINF:-1,TV VANGUARDA São José dos Campos SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5392
-#EXTINF:-1,TV VERDES MARES FORTALEZA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5528
-#EXTINF:-1,UNIVERSAL TV FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5280
-#EXTINF:-1,UNIVERSAL TV HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5129
-#EXTINF:-1,UNIVERSAL TV SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5535
-#EXTINF:-1,VH1 SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5529
-#EXTINF:-1,VIVA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/30742
-#EXTINF:-1,VIVA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5131
-#EXTINF:-1,VIVA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5530
-#EXTINF:-1,WARNER CHANNEL FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5282
-#EXTINF:-1,WARNER CHANNEL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5132
-#EXTINF:-1,WARNER CHANNEL SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5531
-#EXTINF:-1,WOOHOO FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5283
-#EXTINF:-1,WOOHOO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5532
-#EXTINF:-1,ZOOMOO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5533
-#EXTINF:-1,ZOOMOO SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/23669
-#EXTINF:-1,GLOBO NEWS FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/45264
-#EXTINF:-1,GLOBO NEWS HD 
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5074
-#EXTINF:-1,GLOBO NEWS SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/5439
-#EXTINF:-1,RECORD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70989
-#EXTINF:-1,RECORD BAHIA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70990
-#EXTINF:-1,RECORD BELEM
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70991
-#EXTINF:-1,RECORD BRASILIA SD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70992
-#EXTINF:-1,RECORD FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70993
-#EXTINF:-1,RECORD FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70994
-#EXTINF:-1,RECORD GOIAS
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70995
-#EXTINF:-1,RECORD GOIAS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70996
-#EXTINF:-1,RECORD HD¹
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70997
-#EXTINF:-1,RECORD MANAUS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70998
-#EXTINF:-1,RECORD MINAS
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/70999
-#EXTINF:-1,RECORD RN TV TROPICAL
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71000
-#EXTINF:-1,RECORD RS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71001
-#EXTINF:-1,RECORD¹
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71002
-#EXTINF:-1,GLOBO BOA VISTA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71694
-#EXTINF:-1,GLOBO CEARÁ
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71695
-#EXTINF:-1,GLOBO CEARÁ HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71696
-#EXTINF:-1,EPTV CAMPINAS H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71697
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71698
-#EXTINF:-1,GLOBO FLORIANOPOLIS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71699
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71700
-#EXTINF:-1,GLOBO INTER TV CABUGI HD²
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71701
-#EXTINF:-1,GLOBO INTER TV CABUGI²
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71702
-#EXTINF:-1,GLOBO INTER TV DOS VALES FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71703
-#EXTINF:-1,GLOBO INTER TV DOS VALES HD²
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71704
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71705
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71706
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71707
-#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71708
-#EXTINF:-1,GLOBO MACAPA
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71709
-#EXTINF:-1,GLOBO MACAPA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71710
-#EXTINF:-1,GLOBO NATAL
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71711
-#EXTINF:-1,GLOBO NATAL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71712
-#EXTINF:-1,GLOBO NORDESTE FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71713
-#EXTINF:-1,GLOBO NORDESTE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71714
-#EXTINF:-1,GLOBO NSC TV BLUMENAL FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71715
-#EXTINF:-1,GLOBO NSC TV CHAPECO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71716
-#EXTINF:-1,GLOBO NSC TV CRICIUMA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71717
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71718
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71719
-#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71720
-#EXTINF:-1,GLOBO PORTO VELHO
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71721
-#EXTINF:-1,GLOBO PORTO VELHO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71722
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE²
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71723
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71724
-#EXTINF:-1,GLOBO RBS TV PELOTAS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71725
-#EXTINF:-1,GLOBO RBS TV POÁ FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71726
-#EXTINF:-1,GLOBO RBS TV SANTA MARIA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71727
-#EXTINF:-1,GLOBO RECIFE
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71728
-#EXTINF:-1,GLOBO RECIFE FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71729
-#EXTINF:-1,GLOBO RECIFE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71730
-#EXTINF:-1,GLOBO RECIFE HD²
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71731
-#EXTINF:-1,GLOBO REDE AMAZONICA
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71732
-#EXTINF:-1,GLOBO REDE AMAZONICA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71733
-#EXTINF:-1,GLOBO RIO INTERIOR HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71734
-#EXTINF:-1,GLOBO RIO¹
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71735
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71736
-#EXTINF:-1,GLOBO RPC PONTA GROSSA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71737
-#EXTINF:-1,GLOBO SJRP
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71739
-#EXTINF:-1,GLOBO SP DUAL
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71740
-#EXTINF:-1,GLOBO TV ASA BRANCA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71741
-#EXTINF:-1,GLOBO TV BAHIA FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71742
-#EXTINF:-1,GLOBO TV BAHIA HD²
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71743
-#EXTINF:-1,GLOBO TV CABO BRANCO HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71744
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABÁ HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71745
-#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIABÁ
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71746
-#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIABÁ FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71747
-#EXTINF:-1,GLOBO TV CLUBE PIAUÍ HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71748
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71749
-#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71750
-#EXTINF:-1,GLOBO TV GAZETA FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71751
-#EXTINF:-1,GLOBO TV GAZETA SUL HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71752
-#EXTINF:-1,GLOBO TV GRANDE RIO FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71753
-#EXTINF:-1,GLOBO TV INTEGRACAO ARAXA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71754
-#EXTINF:-1,GLOBO TV LIBERAL BELEM FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71755
-#EXTINF:-1,GLOBO TV LIBERAL BELEM HD²
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71756
-#EXTINF:-1,GLOBO TV MIRANTE
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71757
-#EXTINF:-1,GLOBO TV MIRANTE FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71758
-#EXTINF:-1,GLOBO TV MIRANTE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71759
-#EXTINF:-1,GLOBO TV MIRANTE HD²
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71760
-#EXTINF:-1,GLOBO TV MORENA FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71761
-#EXTINF:-1,GLOBO TV NACIONAL
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71762
-#EXTINF:-1,GLOBO TV SANTA CRUZ FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71763
-#EXTINF:-1,GLOBO TV SANTA CRUZ HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71764
-#EXTINF:-1,GLOBO TV SERGIPE HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71765
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71766
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD H265
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71767
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71768
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD¹
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71769
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA¹
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71770
-#EXTINF:-1,GLOBO VITORIA HD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/71771
-#EXTINF:-1,[24H] - Aladin
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72932
-#EXTINF:-1,[24H] - As Meninas Superpoderosas
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72933
-#EXTINF:-1,[24H] - Ben 10
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72934
-#EXTINF:-1,[24H] - Bob Esponja
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72935
-#EXTINF:-1,[24H] - Breaking Bad
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72936
-#EXTINF:-1,[24H] - Cão Coragem
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72937
-#EXTINF:-1,[24H] - Caverna do Dragão
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72938
-#EXTINF:-1,[24H] - Chapolin Colorado
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72939
-#EXTINF:-1,[24H] - Chaves
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72940
-#EXTINF:-1,[24H] - Chaves Desenho
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72941
-#EXTINF:-1,[24H] - Denis o Pimentinha
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72942
-#EXTINF:-1,[24H] - Desenhos Biblicos
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72943
-#EXTINF:-1,[24H] - Desenhos Disney
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72944
-#EXTINF:-1,[24H] - Digimon
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72945
-#EXTINF:-1,[24H] - Dois Homens e Meio
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72946
-#EXTINF:-1,[24H] - Doug
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72947
-#EXTINF:-1,[24H] - Dragon Ball
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72948
-#EXTINF:-1,[24H] - Eu a Patroa e as Crianças
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72949
-#EXTINF:-1,[24H] - Galinha Pintadinha
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72950
-#EXTINF:-1,[24H] - Guardiões da Galaxia
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72951
-#EXTINF:-1,[24H] - He-Man
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72952
-#EXTINF:-1,[24H] - Historias Disney
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72953
-#EXTINF:-1,[24H] - Pica Pau
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72954
-#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72955
-#EXTINF:-1,[24H] - 3 Palavrinhas
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72956
-#EXTINF:-1,[24H] - A Grande Familia
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72957
-#EXTINF:-1,[24H] - A Feiticeira
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72958
-#EXTINF:-1,[24H] - Mr. Bean
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72959
-#EXTINF:-1,[24H] - Friends - Temp 03
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72960
-#EXTINF:-1,[24H] - Scooby Doo
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72961
-#EXTINF:-1,[24H] - O Máskara
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72962
-#EXTINF:-1,[24H] - Tom E Jerry
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72963
-#EXTINF:-1,[24H] - Caverna Do Dragão
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72964
-#EXTINF:-1,[24H] - Galinha Pintadinha
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72965
-#EXTINF:-1,[24H] - Homem Aranha
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72966
-#EXTINF:-1,[24H] - Ben 10
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72967
-#EXTINF:-1,[24H] - Aladdin Desenho Animado
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72968
-#EXTINF:-1,[24H] - As Aventuras De Jackie Chan
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72969
-#EXTINF:-1,[24H] - The Big Bang Theory - Temp 1
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72970
-#EXTINF:-1,[24H] - Os Padrinhos Mágicos -
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72971
-#EXTINF:-1,[24H] - A Turma Da Monica 2
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72972
-#EXTINF:-1,[24H] - PJ Masks
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72973
-#EXTINF:-1,[24h] - 101 Dalmatas
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72974
-#EXTINF:-1,[24h] - Desenhos Biblicos 2
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72975
-#EXTINF:-1,[24h] - Johnny Test
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72976
-#EXTINF:-1,[24h] - Looney Tunes
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72977
-#EXTINF:-1,[24h] - Masha e o Urso 2
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72978
-#EXTINF:-1,[24h] - Os Backyardigans
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72979
-#EXTINF:-1,[24h] - Teletubbies
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72980
-#EXTINF:-1,[24H] - He Man Desenho 2
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72981
-#EXTINF:-1,[24H] - Jaspion
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/72982
-#EXTINF:-1,RECORD BAHIA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/86529
-#EXTINF:-1,RECORD BRASILIA FHD
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/86555
-#EXTINF:-1,SUPER GOSPEL
-http://srvuhd.top:80/Edivaldo2021/Edivaldo2021/97771
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Filmes e Series|---------------------------------" tvg-logo="" group-title="BR Filmes e Series",BR:-----|Filmes e Series|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66011
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BR001:A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png" group-title="BR Filmes e Series",BR001:A&E HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2531
+#EXTINF:-1 tvg-id="amc.br" tvg-name="BR002:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR002AMCBR.png" group-title="BR Filmes e Series",BR002:AMC HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2530
+#EXTINF:-1 tvg-id="axn.br" tvg-name="BR005:AXN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR005AXNBR.png" group-title="BR Filmes e Series",BR005:AXN HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2527
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BR080:Globo SP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/" group-title="BR Filmes e Series",BR080:Globo SP
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2452
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR014:Cinemax HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR014CinemaxBR.png" group-title="BR Filmes e Series",BR014:Cinemax HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2518
+#EXTINF:-1 tvg-id="fox.br" tvg-name="BR038:Fox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR038FoxBR.png" group-title="BR Filmes e Series",BR038:Fox HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2494
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR040:Fox Permium 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR040FoxPermium1.png" group-title="BR Filmes e Series",BR040:Fox Permium 1 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2492
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR041:Fox Premium 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR041FoxPremium2.png" group-title="BR Filmes e Series",BR041:Fox Premium 2 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2491
+#EXTINF:-1 tvg-id="fx.br" tvg-name="BR044:FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR044FXBR.png" group-title="BR Filmes e Series",BR044:FX HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2488
+#EXTINF:-1 tvg-id="max.br" tvg-name="BR061:Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR061Max.png" group-title="BR Filmes e Series",BR061:Max
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2471
+#EXTINF:-1 tvg-id="max.prime.br" tvg-name="BR062:Max Prime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR062MaxPrime.png" group-title="BR Filmes e Series",BR062:Max Prime
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2470
+#EXTINF:-1 tvg-id="max.up.br" tvg-name="BR063:Max Up" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR063MaxUp.png" group-title="BR Filmes e Series",BR063:Max Up
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2469
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="BR064:MegaPix HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR064MegaPix.png" group-title="BR Filmes e Series",BR064:MegaPix HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2468
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="BR074:Paramount Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR074ParamountBR.png" group-title="BR Filmes e Series",BR074:Paramount Channel HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2458
+#EXTINF:-1 tvg-id="space.br" tvg-name="BR086:Space HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR086SpaceBR.png" group-title="BR Filmes e Series",BR086:Space HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2446
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="BR090:Studio Universal HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="BR Filmes e Series",BR090:Studio Universal HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2442
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="BR091:SYFY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR091SYFYBR.png" group-title="BR Filmes e Series",BR091:SYFY HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2441
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="BR099:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR099TLCBR.png" group-title="BR Filmes e Series",BR099:TLC HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2433
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="BR092:TBS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR092TBSBR.png" group-title="BR Filmes e Series",BR092:TBS HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2440
+#EXTINF:-1 tvg-id="warner.br" tvg-name="BR082:Warner Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR082WarnerChannel.png" group-title="BR Filmes e Series",BR082:Warner Channel HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2450
+#EXTINF:-1 tvg-id="" tvg-name="BR162:Fox FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR162FoxFHD.png" group-title="BR Filmes e Series",BR162:Fox FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65717
+#EXTINF:-1 tvg-id="" tvg-name="BR164:Fox Premium 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR164FoxPremium1FHD.png" group-title="BR Filmes e Series",BR164:Fox Premium 1 FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65719
+#EXTINF:-1 tvg-id="" tvg-name="BR173:Fx FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR173FxFHD.png" group-title="BR Filmes e Series",BR173:Fx FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65728
+#EXTINF:-1 tvg-id="" tvg-name="BR174:Fx SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR174FxSD.png" group-title="BR Filmes e Series",BR174:Fx SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65729
+#EXTINF:-1 tvg-id="" tvg-name="BR218:Paramount Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR218ParamountChannelFHD.png" group-title="BR Filmes e Series",BR218:Paramount Channel FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65773
+#EXTINF:-1 tvg-id="" tvg-name="BR244:Tbs FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR244TbsSD.png" group-title="BR Filmes e Series",BR244:Tbs FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65799
+#EXTINF:-1 tvg-id="" tvg-name="BR257:TNT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR257TNTFHD.png" group-title="BR Filmes e Series",BR257:TNT FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65812
+#EXTINF:-1 tvg-id="" tvg-name="BR261:Universal Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR261UniversalChannelFHD.png" group-title="BR Filmes e Series",BR261:Universal Channel FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65816
+#EXTINF:-1 tvg-id="" tvg-name="BR264:Viva FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR264VivaFHD.png" group-title="BR Variedades",BR264:Viva FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65819
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR100:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR100TNTBR.png" group-title="BR Filmes e Series",BR100:TNT HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2432
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="BR101:TNT Series  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR101TNTSeriesBR.png" group-title="BR Filmes e Series",BR101:TNT Series  HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2431
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="BR102:TV Ra Tim Bum" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR102TVRaTimBum.png" group-title="BR Infantis",BR102:TV Ra Tim Bum
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2430
+#EXTINF:-1 tvg-id="universal.br" tvg-name="BR103:Universal Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR103Universal.png" group-title="BR Filmes e Series",BR103:Universal Channel HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2429
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BR105:A&E SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR105A&ESD.png" group-title="BR Filmes e Series",BR105:A&E SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65660
+#EXTINF:-1 tvg-id="axn.br" tvg-name="BR113:AXN SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR113AXNSD.png" group-title="BR Filmes e Series",BR113:AXN SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65668
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Esportes|---------------------------------" tvg-logo="" group-title="BR Esportes",BR:-----|Esportes|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66013
+#EXTINF:-1 tvg-id="band.sports.br" tvg-name="BR008:Band Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR008BandSports.png" group-title="BR Esportes",BR008:Band Sports HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2524
+#EXTINF:-1 tvg-id="combate.br" tvg-name="BR015:Combate HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR015Combate.png" group-title="BR Esportes",BR015:Combate HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2517
+#EXTINF:-1 tvg-id="espn.br" tvg-name="BR033:ESPN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR033ESPN.png" group-title="BR Esportes",BR033:ESPN HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2499
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="BR031:ESPN BRASIL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR031ESPNBRASIL.png" group-title="BR Esportes",BR031:ESPN BRASIL HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2501
+#EXTINF:-1 tvg-id="" tvg-name="BR156:Espn Extra FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR156EspnExtraSD.png" group-title="BR Esportes",BR156:Espn Extra FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65711
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="BR030:ESPN Extra HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR030ESPNExtra.png" group-title="BR Esportes",BR030:ESPN Extra HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2502
+#EXTINF:-1 tvg-id="sony.br" tvg-name="BR012:FISH TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR012CanalSony.png" group-title="BR Esportes",BR012:FISH TV HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2520
+#EXTINF:-1 tvg-id="" tvg-name="BR159:Fish TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR159FishTVSD.png" group-title="BR Esportes",BR159:Fish TV SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65714
+#EXTINF:-1 tvg-id="off.br" tvg-name="BR073:Off HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR073OFF.png" group-title="BR Esportes",BR073:Off HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2459
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="BR042:Fox Sports 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR042FoxSports2BR.png" group-title="BR Esportes",BR042:Fox Sports 2 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2490
+#EXTINF:-1 tvg-id="" tvg-name="BR171:Fox Sports FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR171FoxSportsFHD.png" group-title="BR Esportes",BR171:Fox Sports FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65726
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="BR043:Fox Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR043FoxSports1.png" group-title="BR Esportes",BR043:Fox Sports 1 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2489
+#EXTINF:-1 tvg-id="sportv.3.br" tvg-name="BR088:Sport TV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR088SportTV3.png" group-title="BR Esportes",BR088:Sport TV 3 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2444
+#EXTINF:-1 tvg-id="sportv.2.br" tvg-name="BR087:Sport TV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR087SportTV2.png" group-title="BR Esportes",BR087:Sport TV 2 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2445
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR089:Sport TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR089SportTV1.png" group-title="BR Esportes",BR089:Sport TV 1 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2443
+#EXTINF:-1 tvg-id="pfc.br" tvg-name="BR034:PFC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR034PFC.png" group-title="BR Esportes",BR034:PFC HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2498
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="BR032:WOOHOO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR032WOOHOO.png" group-title="BR Esportes",BR032:WOOHOO HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2500
+#EXTINF:-1 tvg-id="" tvg-name="BR268:Woohoo FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR268WoohooSD.png" group-title="BR Esportes",BR268:Woohoo FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65823
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Musicas|--------------------------" tvg-logo="" group-title="BR Musicas",BR:-----|Musicas|--------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66168
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="BR009:VH1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR009VH1BR.png" group-title="BR Musicas",BR009:VH1 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2523
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BR010:BIS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR010BISBR.png" group-title="BR Musicas",BR010:BIS HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2522
+#EXTINF:-1 tvg-id="" tvg-name="BR205:Mtv FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR205MtvFHD.png" group-title="BR Musicas",BR205:Mtv FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65760
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="BR065:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR065MTVBR.png" group-title="BR Musicas",BR065:MTV HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2467
+#EXTINF:-1 tvg-id="" tvg-name="BR207:Multishow FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR207MultishowFHD.png" group-title="BR Musicas",BR207:Multishow FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65762
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="BR066:Multishow HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR066Multishow.png" group-title="BR Musicas",BR066:Multishow HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2466
+#EXTINF:-1 tvg-id="" tvg-name="BR209:Music Box SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR209MusicBoxSD.png" group-title="BR Musicas",BR209:Music Box SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65764
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="BR067:BG MUSIC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR067MusicBox.png" group-title="BR Musicas",BR067:BG MUSIC HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2465
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Canais Hbo|---------------------------------" tvg-logo="" group-title="BR HBO",BR:-----|Canais Hbo|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66018
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR054:HBO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR054HBOBR.png" group-title="BR HBO",BR054:HBO HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2478
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="BR052:HBO 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR052HBO2BR.png" group-title="BR HBO",BR052:HBO 2 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2480
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="BR053:HBO Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR053HBOFamilyBR.png" group-title="BR HBO",BR053:HBO Family HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2479
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="BR055:HBO Plus HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR055HBOPlusBR.png" group-title="BR HBO",BR055:HBO Plus HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2477
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="BR056:HBO Signature HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR056HBOSignatureBR.png" group-title="BR HBO",BR056:HBO Signature HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2476
+#EXTINF:-1 tvg-id="" tvg-name="BR188:Hbo family SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR188HbofamilySD.png" group-title="BR HBO",BR188:Hbo family SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65743
+#EXTINF:-1 tvg-id="" tvg-name="BR194:Hbo Signature FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR194HboSignatureFHD.png" group-title="BR HBO",BR194:Hbo Signature FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65749
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Canais Telecine|---------------------------------" tvg-logo="" group-title="BR Telecine",BR:-----|Canais Telecine|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66012
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="BR093:Telecine Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR093TelecineAction.png" group-title="BR Telecine",BR093:Telecine Action HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2439
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="BR094:Telecine Cult HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR094TelecineCult.png" group-title="BR Telecine",BR094:Telecine Cult HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2438
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="BR095:Telecine Fun HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR095TelecineFun.png" group-title="BR Telecine",BR095:Telecine Fun HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2437
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="BR096:Telecine Pipoca HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR096TelecinePipoca.png" group-title="BR Telecine",BR096:Telecine Pipoca HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2436
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="BR097:Telecine Premium HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR097TelecinePremium.png" group-title="BR Telecine",BR097:Telecine Premium HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2435
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="BR098:Telecine Touch HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR098TelecineTouch.png" group-title="BR Telecine",BR098:Telecine Touch HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2434
+#EXTINF:-1 tvg-id="" tvg-name="BR248:Telecine Cult SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR248TelecineCultSD.png" group-title="BR Telecine",BR248:Telecine Cult SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65803
+#EXTINF:-1 tvg-id="" tvg-name="BR254:Telecine Premium SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR254TelecinePremiumSD.png" group-title="BR Telecine",BR254:Telecine Premium SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65809
+
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Canais Premiere|---------------------------------" tvg-logo="" group-title="BR Premiere",BR:-----|Canais Premiere|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66019
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR075:Premiere 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR075Premiere2.png" group-title="BR Premiere",BR075:Premiere 2 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2457
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR076:Premiere 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR076Premiere3.png" group-title="BR Premiere",BR076:Premiere 3 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2456
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR077:Premiere 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR077Premiere4.png" group-title="BR Premiere",BR077:Premiere 4 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2455
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR078:Premiere 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR078Premiere5.png" group-title="BR Premiere",BR078:Premiere 5 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2454
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="BR081:Premiere Clubes HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR081PremiereClubes.png" group-title="BR Premiere",BR081:Premiere Clubes HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2451
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="BR004:Arte 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR004Arte1.png" group-title="BR Variedades",BR004:Arte 1 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2528
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="BR110:Arte 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR110Arte1FHD.png" group-title="BR Variedades",BR110:Arte 1 FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65665
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="BR111:Arte 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR111Arte1SD.png" group-title="BR Variedades",BR111:Arte 1 SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65666
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="BR016:Comedy Central HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR016ComedyCentralBR.png" group-title="BR Variedades",BR016:Comedy Central HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2516
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="BR020:Discovery Home Health HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR020DiscoveryHomeHealth.png" group-title="BR Variedades",BR020:Discovery Home Health HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2512
+#EXTINF:-1 tvg-id="e.br" tvg-name="BR029:E! HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR029E!BR.png" group-title="BR Variedades",BR029:E! HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2503
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="BR037:Food Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR037FoodNetworkBR.png" group-title="BR Variedades",BR037:Food Network HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2495
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="BR039:Fox Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR039FoxLife.png" group-title="BR Variedades",BR039:Fox Life HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2493
+#EXTINF:-1 tvg-id="mais.globosat.br" tvg-name="BR060:Mais Globosat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR060MaisGlobosat.png" group-title="BR Variedades",BR060:Mais Globosat
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2472
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="BR050:GNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR050GNTBR.png" group-title="BR Variedades",BR050:GNT HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2482
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="BR059:Lifetime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR059LifetimeBR.png" group-title="BR Variedades",BR059:Lifetime HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2473
+#EXTINF:-1 tvg-id="viva.br" tvg-name="BR035:VIVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR035VIVABR.png" group-title="BR Variedades",BR035:VIVA HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2497
+#EXTINF:-1 tvg-id="" tvg-name="BR436:REDE VIDA HD" tvg-logo="" group-title="BR Variedades",BR436:REDE VIDA HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/49959
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Documentarios|---------------------------------" tvg-logo="" group-title="BR Documentarios",BR:-----|Documentarios|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66167
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="BR003:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR003AnimalPlanetBR.png" group-title="BR Documentarios",BR003:Animal Planet HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2529
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="BR108:Animal Planet FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR108AnimalPlanetFHD.png" group-title="BR Documentarios",BR108:Animal Planet FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65663
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="BR018:Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR018DiscoveryBR.png" group-title="BR Documentarios",BR018:Discovery HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2514
+#EXTINF:-1 tvg-id="discovery.civilization.br" tvg-name="BR019:Discovery Civilization HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR019DiscoveryCivilization.png" group-title="BR Documentarios",BR019:Discovery Civilization HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2513
+#EXTINF:-1 tvg-id="discovery.civilization.br" tvg-name="BR132:Discovery Civilization FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR132DiscoveryCivilizationFHD.png" group-title="BR Documentarios",BR132:Discovery Civilization FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65687
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="BR022:Discovery Science HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR022DiscoveryScienceBR.png" group-title="BR Documentarios",BR022:Discovery Science HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2510
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="BR139:Discovery Science SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR139DiscoveryScienceSD.png" group-title="BR Documentarios",BR139:Discovery Science SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65694
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="BR023:Discovery Theater HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR023DiscoveryTheater.png" group-title="BR Documentarios",BR023:Discovery Theater HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2509
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="BR024:Discovery Turbo HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR024DiscoveryTurbo.png" group-title="BR Documentarios",BR024:Discovery Turbo HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2508
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="BR025:Discovery World HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR025DiscoveryWORLD.png" group-title="BR Documentarios",BR025:Discovery World HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2507
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="BR145:Discovery World FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR145DiscoveryWorldFHD.png" group-title="BR Documentarios",BR145:Discovery World FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65700
+#EXTINF:-1 tvg-id="investigation.discovery.br" tvg-name="BR058:Investigacao Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR058IDBR.png" group-title="BR Documentarios",BR058:Investigacao Discovery HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2474
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="BR136:Discovery Kids FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR136DiscoveryKidsFHD.png" group-title="BR Infantis",BR136:Discovery Kids FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65691
+#EXTINF:-1 tvg-id="history.br" tvg-name="BR057:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR057HistoryBR.png" group-title="BR Documentarios",BR057:History HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2475
+#EXTINF:-1 tvg-id="h2.br" tvg-name="BR051:H2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR051H2BR.png" group-title="BR Documentarios",BR051:H2 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2481
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="BR068:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR068NATGEOBR.png" group-title="BR Documentarios",BR068:NAT GEO HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2464
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="BR070:NAT GEO Wild HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR070NATGEOWildBR.png" group-title="BR Documentarios",BR070:NAT GEO Wild HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2462
+#EXTINF:-1 tvg-id="" tvg-name="BR213:Nat Geo Wild SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR213NatGeoWildSD.png" group-title="BR Documentarios",BR213:Nat Geo Wild SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65768
+#EXTINF:-1 tvg-id="" tvg-name="BR199:History Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR199HistoryChannelSD.png" group-title="BR Documentarios",BR199:History Channel SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65754
+#EXTINF:-1 tvg-id="" tvg-name="BR200:Investigacao Discovery FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR200InvestigacaoDiscoveryFHD.png" group-title="BR Documentarios",BR200:Investigacao Discovery FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65755
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="BR137:Discovery Kids SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR137DiscoveryKidsSD.png" group-title="BR Infantis",BR137:Discovery Kids SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65692
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="BR140:Discovery Theater FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR140DiscoveryTheaterFHD.png" group-title="BR Documentarios",BR140:Discovery Theater FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65695
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="BR142:Discovery TLC SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR142DiscoveryTLCSD.png" group-title="BR Documentarios",BR142:Discovery TLC SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65697
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Infantis|---------------------------------" tvg-logo="" group-title="BR Infantis",BR:-----|Infantis|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66016
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BR017:Baby TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR017BabyTV.png" group-title="BR Infantis",BR017:Baby TV HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2515
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BR011:Boomerang HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR011BoomerangBR.png" group-title="BR Infantis",BR011:Boomerang HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2521
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="BR013:Cartoon Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR013CartoonNetworkBR.png" group-title="BR Infantis",BR013:Cartoon Network HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2519
+#EXTINF:-1 tvg-id="disney.br" tvg-name="BR026:Disney HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR026DisneyBR.png" group-title="BR Infantis",BR026:Disney HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2506
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="BR027:DISNEY JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR027DISNEYJRBR.png" group-title="BR Infantis",BR027:DISNEY JR HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2505
+#EXTINF:-1 tvg-id="" tvg-name="BR151:Disney XD FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR151DisneyXDFHD.png" group-title="BR Infantis",BR151:Disney XD FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65706
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="BR028:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR028DisneyXDBR.png" group-title="BR Infantis",BR028:Disney XD HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2504
+#EXTINF:-1 tvg-id="" tvg-name="BR152:Disney XD SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR152DisneyXDSD.png" group-title="BR Infantis",BR152:Disney XD SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65707
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="BR021:Discovery Kids HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR021DiscoveryKids.png" group-title="BR Infantis",BR021:Discovery Kids HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2511
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="BR049:Gloobinho HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR049Gloobinho.png" group-title="BR Infantis",BR049:Gloobinho HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2483
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="BR069:NAT GEO Kids HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR069NATGEOKidsBR.png" group-title="BR Infantis",BR069:NAT GEO Kids HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2463
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="BR071:NICK JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR071NICKJRBR.png" group-title="BR Infantis",BR071:NICK JR HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2461
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BR072:Nickelodeon FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR072NickelodeonBR.png" group-title="BR Infantis",BR072:Nickelodeon FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2460
+#EXTINF:-1 tvg-id="" tvg-name="BR181:Gloob SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR181GloobSD.png" group-title="BR Infantis",BR181:Gloob SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65736
+#EXTINF:-1 tvg-id="" tvg-name="BR211:Nat Geo Kids SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR211NatGeoKidsSD.png" group-title="BR Infantis",BR211:Nat Geo Kids SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65766
+#EXTINF:-1 tvg-id="" tvg-name="BR214:Nick JR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR214NickJRFHD.png" group-title="BR Infantis",BR214:Nick JR FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65769
+#EXTINF:-1 tvg-id="" tvg-name="BR215:Nick JR SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR215NickJRSD.png" group-title="BR Infantis",BR215:Nick JR SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65770
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Noticias|-----------------------" tvg-logo="" group-title="BR Noticias",BR:-----|Noticias|-----------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66165
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="BR079:CNN BRASIL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR079Premiere6.png" group-title="BR Noticias",BR079:CNN BRASIL HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2453
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BR007:Band News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR007BandNewsBR.png" group-title="BR Noticias",BR007:Band News HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2525
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="BR045:Globo News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR045GloboNewsBR.png" group-title="BR Noticias",BR045:Globo News HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2487
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BR116:Band News SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR116BandNewsSD.png" group-title="BR Noticias",BR116:Band News SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65671
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Rede Globo|---------------------------------" tvg-logo="" group-title="BR Rede Globo",BR:-----|Rede Globo|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66015
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="BR046:GLOBO RBS TV PORTO ALEGRE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR046GLOBORBSTVPORTOALEGRE.png" group-title="BR Rede Globo",BR046:GLOBO RBS TV PORTO ALEGRE
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2486
+#EXTINF:-1 tvg-id="globo.br" tvg-name="BR048:Globo HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR048GloboBR.png" group-title="BR Rede Globo",BR048:Globo HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2484
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="BR047:Globo RJ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR047GloboRJ.png" group-title="BR Rede Globo",BR047:Globo RJ HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2485
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|Canais Abertos|---------------------------------" tvg-logo="" group-title="BR Abertos",BR:-----|Canais Abertos|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66017
+#EXTINF:-1 tvg-id="band.br" tvg-name="BR006:Band HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR006BandBR.png" group-title="BR Abertos",BR006:Band HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2526
+#EXTINF:-1 tvg-id="record.br" tvg-name="BR036:TV Record HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR036TVRecord.png" group-title="BR Abertos",BR036:TV Record HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2496
+#EXTINF:-1 tvg-id="record.br" tvg-name="BR083:Record" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR083Record.png" group-title="BR Abertos",BR083:Record
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2449
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="BR084:Rede TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR084RedeTV.png" group-title="BR Abertos",BR084:Rede TV HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2448
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR085:SBT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR085SBT.png" group-title="BR Abertos",BR085:SBT HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2447
+#EXTINF:-1 tvg-id="" tvg-name="BR175:Globo Brasilia SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR175GloboBrasiliaSD.png" group-title="BR Rede Globo",BR175:Globo Brasilia SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65730
+#EXTINF:-1 tvg-id="" tvg-name="BR176:Globo News FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR176GloboNewsFHD.png" group-title="BR Noticias",BR176:Globo News FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65731
+#EXTINF:-1 tvg-id="" tvg-name="BR177:Globo News SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR177GloboNewsSD.png" group-title="BR Noticias",BR177:Globo News SD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65732
+#EXTINF:-1 tvg-id="" tvg-name="BR178:Globo RJ FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR178GloboRJFHD.png" group-title="BR Rede Globo",BR178:Globo RJ FHD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/65733
+#EXTINF:-1 tvg-id="" tvg-name="BR:-----|24 Horas|---------------------------------" tvg-logo="" group-title="BR 24 Horas",BR:-----|24 Horas|---------------------------------
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66020
+#EXTINF:-1 tvg-id="" tvg-name="BR433:Todo Mundo Odeia O Chris 24H" tvg-logo="" group-title="BR 24 Horas",BR433:Todo Mundo Odeia O Chris 24H
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66008
+#EXTINF:-1 tvg-id="" tvg-name="BR432:VAI QUE COLA 24H" tvg-logo="" group-title="BR 24 Horas",BR432:VAI QUE COLA 24H
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66007
+#EXTINF:-1 tvg-id="" tvg-name="BR431:Peppa Pig 24H" tvg-logo="" group-title="BR 24 Horas",BR431:Peppa Pig 24H
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66006
+#EXTINF:-1 tvg-id="" tvg-name="BR430:Naruto 24H" tvg-logo="" group-title="BR 24 Horas",BR430:Naruto 24H
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/66005
