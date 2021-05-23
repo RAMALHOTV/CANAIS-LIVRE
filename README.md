@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Rede_Globo_logo_1986.png" group-title="CANAIS",Globo RJ [2]
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bbb21.png" group-title="Variedades", BBB 21 - Big Brother Brasil
-https://listaiptv.gratis/bbb21.mp4
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://imgur.com/ualVUwe.png",Bons Tempos TV by-Ramalhotv
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - TV Difusora (MA)
 https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Serra Dourada - (GO)
